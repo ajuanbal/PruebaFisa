@@ -64,3 +64,7 @@ Track 2:
 04:00PM Rails for Python Developers lightning
 05:00PM Networking Event
 ```
+
+# Guia para prueba 
+Clonar el repositorio en workspace de Eclipse 
+Si no aparece en la pantalla de proyectos de Eclipse, proceder a importarlo e ir al directorio donde se clono el proyecto
